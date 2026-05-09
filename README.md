@@ -1,6 +1,6 @@
 ##  Background Mathematics Refresher
 <p float="center">
-    <img src="Git.png" width="60%" />
+    <img src="Maths for ML.png" width="60%" />
 </p>
 
 ## 1. Core Mathematics Review
